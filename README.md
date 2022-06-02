@@ -8,7 +8,6 @@ I'm looking to expand my horizons in frontend development and couple that with m
 ### Make First Contact
 
 Website: https://elibushresume.online/
-Email: eli.h.bush@gmail.com
 
 <!--
 **Bush2775/Bush2775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
