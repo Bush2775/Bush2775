@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://tenor.com/view/star-wars-obi-wan-kenobi-hello-there-hi-there-greeting-gif-17424068)
 
 Pronouns: He/Him </br>
 I am a Security Engineer looking learn more about the industry and make meaningful connections.
