@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-![Hello there gif](star-wars-obi-wan-kenobi.gif Obi Wan Kenobi)
+![Hello there gif](star-wars-obi-wan-kenobi.gif)
 
 
 Pronouns: He/Him </br>
