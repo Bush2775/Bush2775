@@ -7,9 +7,9 @@ I'm looking to expand my horizons in frontend development and couple that with m
 
 
 ### Projects/Certifications I'm Working On
-AWS Cloud Practitioner
-30 Days of React
-CISSP
+AWS Cloud Practitioner</br>
+30 Days of React</br>
+CISSP</br>
 
 ### Make First Contact
 
