@@ -1,12 +1,15 @@
-### Hello there 👋
-
 ![Hello there gif](star-wars-obi-wan-kenobi.gif)
 
 
 Pronouns: He/Him </br>
 I am a Security Engineer looking learn more about the industry and make meaningful connections.
-I'm looking to expand my horizons in frontend development and couple that with my security knowledge by learning React
+I'm looking to expand my horizons in frontend development and couple that with my security knowledge by learning React.
 
+
+### Projects/Certifications I'm Working On
+AWS Cloud Practitioner
+30 Days of React
+CISSP
 
 ### Make First Contact
 
