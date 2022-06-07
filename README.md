@@ -3,13 +3,16 @@
 ### About Me
 Pronouns: He/Him </br>
 I am a Security Engineer looking learn to more about the industry and make meaningful connections.
-I'm looking to expand my horizons in frontend development and couple that with my security knowledge by learning React.
+I'm looking to expand my horizons in frontend development and couple that with my security knowledge by learning React. Reach out to me with any questions or wanting to collaborate on a project.
 
 
 ### Projects/Certifications I'm Working On
 AWS Cloud Practitioner</br>
 30 Days of React</br>
 CISSP</br>
+
+### Fun Fact
+I sang in a barbershop quartet in high school, Four Times as Good
 
 ### Make First Contact
 
