@@ -16,7 +16,7 @@ I sang in a barbershop quartet in high school, Four Times as Good
 
 ### Make First Contact
 
-Website: https://elibushresume.online/ </br>
+Website: https://bush2775.github.io/ResumeWebsite2.0/ </br>
 Email: eli.h.bush@gmail.com
 
 <!--
