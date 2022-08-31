@@ -8,6 +8,7 @@ I'm looking to expand my horizons in frontend development and couple that with m
 
 ### Projects/Certifications I'm Working On
 AWS Cloud Practitioner</br>
+Security+</br>
 30 Days of React</br>
 CISSP</br>
 
