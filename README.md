@@ -7,7 +7,6 @@ I'm looking to expand my horizons in frontend development and couple that with m
 
 
 ### Projects/Certifications I'm Working On
-AWS Cloud Practitioner</br>
 Security+</br>
 30 Days of React</br>
 CISSP</br>
@@ -19,6 +18,7 @@ I sang in a barbershop quartet in high school, Four Times as Good
 
 Website: https://bush2775.github.io/ResumeWebsite2.0/ </br>
 Email: eli.h.bush@gmail.com
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1e96d8cc-6629-447e-aa4b-7eb12f3e569d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!--
 **Bush2775/Bush2775** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
