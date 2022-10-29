@@ -5,6 +5,10 @@ Pronouns: He/Him </br>
 I am a Security Engineer looking learn to more about the industry and make meaningful connections.
 I'm looking to expand my horizons in frontend development and couple that with my security knowledge by learning React. Reach out to me with any questions or wanting to collaborate on a project.
 
+### Certifications
+Checkmarx Certified Engineer <br />
+[AWS Cloud Practitioner](https://www.credly.com/badges/1e96d8cc-6629-447e-aa4b-7eb12f3e569d/public_url) <br />
+
 ### Projects/Certifications I'm Working On
 Security+</br>
 30 Days of React</br>
