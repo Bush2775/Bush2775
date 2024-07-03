@@ -14,6 +14,7 @@ Checkmarx Certified Engineer <br />
 30 Days of React</br>
 CISSP</br>
 Implementation of Wazuh on home network</br>
+Ansible</br>
 
 ### Fun Fact
 I sang in a barbershop quartet in high school, Four Times as Good
