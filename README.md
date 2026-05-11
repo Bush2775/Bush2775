@@ -9,7 +9,7 @@ I'm looking to expand my horizons in frontend development and couple that with m
 Checkmarx Certified Engineer <br />
 [AWS Cloud Practitioner](https://www.credly.com/badges/1e96d8cc-6629-447e-aa4b-7eb12f3e569d/public_url) <br />
 [Security+](https://www.credly.com/badges/74147504-e4ab-4277-aac3-6a573f53be2c/public_url) </br>
-[CISSP](https://www.credly.com/badges/02c4c795-df5a-45df-a22b-8fe89b676121/public_url)) <br />
+[CISSP](https://www.credly.com/badges/02c4c795-df5a-45df-a22b-8fe89b676121/public_url) <br />
 
 ### Projects/Certifications I'm Working On
 30 Days of React</br>
